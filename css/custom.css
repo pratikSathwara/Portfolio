@@ -417,7 +417,7 @@ h2 {
 
 .grid_exp_bx {
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 100%;
 }
 
 .exp_bx {
